@@ -35,6 +35,14 @@ Gemma 2，QLoRA微调，混合精度训练，TTA（测试时增强），多GPU�
 | 评估集 | 0.9371 |
 | LB | 0.941 |
 
+## kaggle地址
+[[Training] Gemma-2 9b 4-bit QLoRA fine-tuning](https://www.kaggle.com/code/chenxucool/training-gemma-2-9b-4-bit-qlora-fine-tuning)
+
+[[Inference] Gemma-2 9b 4-bit QLoRA](https://www.kaggle.com/code/chenxucool/inference-gemma-2-9b-4-bit-qlora)
+
+## csdn地址
+[【AI小项目6】QLoRA针对资源受限设备上的大模型微调和文本分类任务的推理](https://blog.csdn.net/weixin_43221845/article/details/142313255?sharetype=blogdetail&sharerId=142313255&sharerefer=PC&sharesource=weixin_43221845&spm=1011.2480.3001.8118)
+
 ## 参考
 [[Training] Gemma-2 9b 4-bit QLoRA fine-tuning](https://www.kaggle.com/code/emiz6413/training-gemma-2-9b-4-bit-qlora-fine-tuning)
 [[Inference] Gemma-2 9b 4-bit QLoRA](https://www.kaggle.com/code/emiz6413/inference-gemma-2-9b-4-bit-qlora/notebook)
